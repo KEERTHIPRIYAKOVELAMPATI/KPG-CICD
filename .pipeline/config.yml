@@ -1,12 +1,12 @@
 steps:
   integrationArtifactDeploy:
-    cpiApiServiceKeyCredentialsId: teched23blr01
+    cpiApiServiceKeyCredentialsId: wlgore-s
     integrationFlowId: P2005880373-flow4
   integrationArtifactGetMplStatus:
-    cpiApiServiceKeyCredentialsId: teched23blr01
+    cpiApiServiceKeyCredentialsId: wlgore-s
     integrationFlowId: P2005880373-flow4
   integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: teched23blr01
+    cpiApiServiceKeyCredentialsId: wlgore-s
     integrationFlowId: P2005880373-flow4
     integrationFlowName: P2005880373-flow4
     packageId: CICD
